@@ -8,6 +8,7 @@ public class Man {
     private String name;
     private int age;
     private double salary;
+    private int group;
 
     public Man(String name, int age) {
         this.name = name;
