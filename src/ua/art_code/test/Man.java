@@ -16,4 +16,8 @@ public class Man {
     public void some(){
         System.out.println("Say hello somme");
     }
+
+    public void add(){
+        System.out.println("Yeas");
+    }
 }
