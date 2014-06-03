@@ -23,5 +23,39 @@ public class Man {
         System.out.println("Yeas");
     }
 
+    public void minus(){
+        System.out.printf("minus");
+    }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public double getSalary() {
+        return salary;
+    }
+
+    public void setSalary(double salary) {
+        this.salary = salary;
+    }
+
+    public int getGroup() {
+        return group;
+    }
+
+    public void setGroup(int group) {
+        this.group = group;
+    }
 }
