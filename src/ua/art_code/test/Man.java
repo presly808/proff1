@@ -7,6 +7,7 @@ public class Man {
 
     private String name;
     private int age;
+    private double salary;
 
     public Man(String name, int age) {
         this.name = name;
@@ -20,4 +21,6 @@ public class Man {
     public void add(){
         System.out.println("Yeas");
     }
+
+
 }
