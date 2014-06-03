@@ -16,15 +16,15 @@ public class Man {
     }
 
     public void some(){
-        System.out.println("Say hello somme");
+        System.out.println("Sasdflkjsdlfkjsdkljf");
     }
 
     public void add(){
-        System.out.println("Yeas");
+        System.out.println("Yasdasdeas");
     }
 
     public void minus(){
-        System.out.printf("minus");
+        System.out.printf("minsadasdasus");
     }
 
     public String getName() {
